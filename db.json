@@ -1,9 +1,26 @@
 {
-  "lastProfaneWordsWarning": null,
+  "bannedUsers": [
+    {
+      "id": 498299127,
+      "username": ""
+    },
+    {
+      "id": 432434242,
+      "username": "@qweqwe"
+    },
+    {
+      "id": 42339829912,
+      "username": ""
+    }
+  ],
   "users": [
     {
       "id": 479943636,
-      "count": 0
+      "warnings": 0
+    },
+    {
+      "id": 498299127,
+      "warnings": 0
     }
   ]
 }
