@@ -7,20 +7,19 @@
     {
       "id": 432434242,
       "username": "@qweqwe"
-    },
-    {
-      "id": 42339829912,
-      "username": ""
     }
   ],
   "users": [
     {
       "id": 479943636,
+      "username": "noname",
       "warnings": 0
     },
     {
       "id": 498299127,
-      "warnings": 0
+      "username": "noname",
+      "warnings": 2
     }
-  ]
+  ],
+  "rules": "1. ❌ NO PROFANE WORDS\n2. ❌ NO SPAM \n3. 🆗 MEMES"
 }
